@@ -1,5 +1,5 @@
 # IN3190
-##Digital signalbehandling
+## Digital signalbehandling
 
 >Digital signalbehandling er en sentral drivkraft i den raske utviklingen av nye metoder innen områder som telekommunikasjon (mobiltelefoni), multimedia (MP3), medisin (ultralyd), sonar, seismikk, fjernanalyse og måleteknikk. Signalbehandling kan defineres som det matematiske verktøyet som brukes for å analysere, modellere og utføre operasjoner på fysiske signaler og deres kilder. Emnet er en innføring i basismetoder som sampling, filtrering og frekvensanalyse.
 
